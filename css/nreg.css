@@ -1,0 +1,41 @@
+.content-i-reg{
+	width: 1020px;
+	height: 545px;
+	color: white;
+	background: #202020;
+	position: fixed;
+
+
+
+
+}
+.imag12{
+   margin-top: 50;
+   margin-left: 400;
+   margin-bottom: 50;
+   height: 30%;
+}
+.namec{
+	margin-left: 50;
+	width: 1000px;
+	display: relative;
+	margin-bottom: 10;
+}
+.nna{
+	margin-left: 50;
+}
+.correo{
+	margin-left: 50;
+	margin-top: 10;
+	margin-bottom: 10;
+}
+.pass{
+	margin-left: 50;
+    margin-bottom: 10;
+}
+.botons{
+	margin-left: 400;
+	margin-top: 30;
+	width: 200px;
+
+}
